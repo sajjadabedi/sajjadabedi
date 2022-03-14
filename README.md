@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajjad
 - 👀 I’m interested Design and solving nitty-gritty design problems.
-- 🌱 In my spare time I enjoy tinkering with making software and website, like building apps and designing project that no one will ever use, ha ha. Making 3D stuff and tinkering with third-dimensional is fun, too.
+- 🌱 In my spare time I enjoy tinkering with making software and website, like building apps and designing project that no one will ever use, ha ha. Making my own idea and tinkering with software is fun, too.
 - 💞️ Would love to disccuss design, accessiblity and design system.
 - 📫 Send me a DM in Slack.
 
